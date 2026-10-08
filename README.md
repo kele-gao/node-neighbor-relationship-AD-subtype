@@ -16,8 +16,6 @@ Set `MAIN_DIR` in each analysis script to your local code directory. Record pack
 
 The current data contain 50 simulated subjects, not real participant data. These simulated data are provided only to demonstrate the analysis workflow and cannot reproduce the manuscript results. The `output/` directory contains example analysis results generated from the simulated data. 
 
-Place gray matter volume CSV files in `data/`
-
 Place nine ROI-by-ROI connectome matrices in `data/networks/`
 
 The connectome matrices could be obtained from Hansen, J. Y. *et al.* Integrating multimodal and multiscale connectivity blueprints of the human cerebral cortex in health and disease. *PLoS Biol* **21**, e3002314 (2023). Source repository: [hansen_many_networks](https://github.com/netneurolab/hansen_many_networks).
