@@ -1,0 +1,8 @@
+# Direct dependencies from the RCN analysis environment (Python 3.11.11).
+numpy==2.0.2
+pandas==2.2.3
+scipy==1.15.0
+scikit-learn==1.6.0
+matplotlib==3.10.0
+statsmodels==0.14.5
+neuroCombat==0.2.12
